@@ -6,9 +6,9 @@ Hello, I'm James Connolly - Data Analytics Professional
 Greetings! I'm James Connolly, a highly motivated and customer-centric professional with a solid foundation in information systems management. Recently graduated in Data Analytics from Atlantic Technological University in January 2024, I am eager to apply and enhance the skills I've acquired.
 
 ### Qualifications
-Higher National Diploma in Data Analytics
-Scrum Product Owner Certification
-MSc in Information Systems Management
+* Higher National Diploma in Data Analytics
+* Scrum Product Owner Certification
+* MSc in Information Systems Management
 
 #### Skills
 I am proficient in a diverse range of technologies, including:
