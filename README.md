@@ -24,15 +24,15 @@ I am proficient in a diverse range of technologies, including:
 
 My GitHub repository reflects my active engagement in these technologies. Feel free to explore the following repositories, showcasing my skills:
 
-[PFDA_Assignment](https://github.com/G00232918/PfDA_Assignment) and [PFDA_Assignment2] (https://github.com/G00232918/PfDA_assignment2) - Demonstrating expertise in Data Analysis and the integration of Machine Learning practices.
+[PFDA_Assignment](https://github.com/G00232918/PfDA_Assignment) and [PFDA_Assignment2](https://github.com/G00232918/PfDA_assignment2) - Demonstrating expertise in Data Analysis and the integration of Machine Learning practices.
 
-[Applied_Databases] (https://github.com/G00232918/Applied_Databases) - Showcasing my proficiency in data analysis using SQL and Neo4j. The repository includes a Python application that retrieves different results based on user selections from a menu.
+[Applied_Databases](https://github.com/G00232918/Applied_Databases) - Showcasing my proficiency in data analysis using SQL and Neo4j. The repository includes a Python application that retrieves different results based on user selections from a menu.
 
-[Data_Representation_Project] (https://github.com/G00232918/data_representation_project) - Featuring the creation of Data Access Objects deployed on a server and showcased on a webpage. This project highlights my skills in Python, AJAX, and JavaScript for transmitting data to a webpage.
+[Data_Representation_Project](https://github.com/G00232918/data_representation_project) - Featuring the creation of Data Access Objects deployed on a server and showcased on a webpage. This project highlights my skills in Python, AJAX, and JavaScript for transmitting data to a webpage.
 
-[Web Application Development] (https://github.com/G00232918/Web_app) - For this assignment, I had create a business e-commerce website that employs the principles of HTML5, CSS and JavaScript which meets the requirements specified.
+[Web Application Development](https://github.com/G00232918/Web_app) - For this assignment, I had create a business e-commerce website that employs the principles of HTML5, CSS and JavaScript which meets the requirements specified.
 
-[Multi Paradigm Programming] (https://github.com/G00232918/Multi_Paradigm_Prog) - The purpose of the project was to create a Shop Program in both C programming language and Python. For the shop in Python, we had  to create the shop in the Procedural programming methodolgy and in Object Orientated programming based on the functionality requirements set.
+[Multi Paradigm Programming](https://github.com/G00232918/Multi_Paradigm_Prog) - The purpose of the project was to create a Shop Program in both C programming language and Python. For the shop in Python, we had  to create the shop in the Procedural programming methodolgy and in Object Orientated programming based on the functionality requirements set.
 
 
 ### Contact Me
