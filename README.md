@@ -3,7 +3,7 @@
 Hello, I'm James Connolly - Data Analytics Professional
 
 #### About Me
-Greetings! I'm James Connolly, a highly motivated and customer-centric professional with a solid foundation in information systems management. Will be graduating in Data Analytics from Atlantic Technological University in 2024, I am eager to apply and enhance the skills I've acquired.
+Greetings! I'm James Connolly, a highly motivated and customer-centric professional with a solid foundation in information systems management. I have graduated with a First Class Honours in Data Analytics from Atlantic Technological University in 2024. I am eager to apply and enhance the skills I've acquired.
 
 ### Qualifications
 * Higher National Diploma in Data Analytics
