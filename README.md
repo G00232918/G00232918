@@ -24,7 +24,7 @@ I am proficient in a diverse range of technologies, including:
 
 My GitHub repository reflects my active engagement in these technologies. Feel free to explore the following repositories, showcasing my skills:
 
-[PFDA_Assignment]([url](https://github.com/G00232918/PfDA_Assignment)) and PFDA_Assignment2 - Demonstrating expertise in Data Analysis and the integration of Machine Learning practices.
+[PFDA_Assignment](https://github.com/G00232918/PfDA_Assignment) and PFDA_Assignment2 - Demonstrating expertise in Data Analysis and the integration of Machine Learning practices.
 
 Applied_Databases - Showcasing my proficiency in data analysis using SQL and Neo4j. The repository includes a Python application that retrieves different results based on user selections from a menu.
 
